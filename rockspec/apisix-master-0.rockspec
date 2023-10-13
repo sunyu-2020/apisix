@@ -20,7 +20,7 @@ version = "master-0"
 supported_platforms = {"linux", "macosx"}
 
 source = {
-    url = "github.com/sunyu-2020/apisix",
+    url = "git://github.com/sunyu-2020/apisix",
     branch = "master",
 }
 description = {
